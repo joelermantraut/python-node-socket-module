@@ -26,4 +26,4 @@ npm install -i express socket.io socket.io-client
 
 ## Documentation
 
-Each function and methods is explained as comments before code.
+Each function and method is explained as comments before code.
