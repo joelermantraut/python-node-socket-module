@@ -12,17 +12,14 @@ Node app depends on express, socket.io and socket.io-client.
 ## Instalation
 
 On Python folder:
-````
+
 ```
 python -m virtualenv .
-
 pip install python-socketio python-socketio["client"]
 ```
 
 On Node folder:
 
 ```
-python -m virtualenv .
-
-pip install python-socketio python-socketio["client"]
+npm install -i express socket.io socket.io-client
 ```
